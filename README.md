@@ -4,5 +4,5 @@ A small project to demostrate circle packing algorithm in app design. Built with
 ## How to run
 
 1. Make sure you have node.js (nodejs.org/) installed to your system
-2. Install `live-server` by running `npm install live-server -g` in commandline.
-3. Run `live-server` in the directory (where you find index.html).
+2. Install `vite` by running `npm install vite -g` in commandline.
+3. Run `vite` in the directory (where you find `index.html`).
